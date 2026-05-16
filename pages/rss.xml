@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>note.hai-vr.dev Blog</title>
+        <link>https://note.hai-vr.dev/pages</link>
+        <description>note.hai-vr.dev Blog</description>
+        <lastBuildDate>Sat, 16 May 2026 16:07:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <link>https://note.hai-vr.dev/pages/2026/05/16/p0</link>
+            <guid>https://note.hai-vr.dev/pages/2026/05/16/p0</guid>
+            <pubDate>Sat, 16 May 2026 16:07:00 GMT</pubDate>
+            <description><![CDATA[Test]]></description>
+            <content:encoded><![CDATA[<p>Test</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
