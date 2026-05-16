@@ -57,6 +57,16 @@ const config = {
           // editUrl:
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        blog: {
+          postsPerPage: 20,
+          routeBasePath: 'pages',
+          path: './pages',
+          blogSidebarTitle: 'Pages',
+          blogSidebarCount: 'ALL',
+          showReadingTime: false,
+          blogTitle: 'Pages',
+          blogDescription: 'Pages',
+        },
         /*blog: {
           showReadingTime: true,
           feedOptions: {
@@ -91,11 +101,15 @@ const config = {
         //   src: 'img/logo.svg',
         // },
         items: [
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Docs',
+          // },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Products',
+            label: 'Pages',
+            to: '/pages',
           },
         ],
       },

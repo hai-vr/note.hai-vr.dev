@@ -6,7 +6,7 @@ import {HaiTag} from "/src/components/HaiTag";
 import {HaiVideo} from "/src/components/HaiVideo";
 
 <HaiTags>
-<HaiTag requiresVRChat={true} short={true} />
-<HaiTag requiresResonite={true} short={true} />
-<HaiTag requiresChilloutVR={true} short={true} />
+[//]: # (<HaiTag requiresVRChat={true} short={true} />)
+[//]: # (<HaiTag requiresResonite={true} short={true} />)
+[//]: # (<HaiTag requiresChilloutVR={true} short={true} />)
 </HaiTags>
