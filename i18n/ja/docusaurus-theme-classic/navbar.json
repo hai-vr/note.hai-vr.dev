@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "note.hai-vr.dev",
+    "description": "The title in the navbar"
+  },
+  "item.label.Pages": {
+    "message": "ページ",
+    "description": "Navbar item with label Pages"
+  }
+}
