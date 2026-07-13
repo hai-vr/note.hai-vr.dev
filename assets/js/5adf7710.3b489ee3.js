@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknote_hvr=self.webpackChunknote_hvr||[]).push([[10],{3231:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/pages","page":1,"postsPerPage":20,"totalPages":1,"totalCount":0,"blogDescription":"Pages","blogTitle":"Pages"}}')}}]);
